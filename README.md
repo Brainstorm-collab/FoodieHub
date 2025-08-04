@@ -115,7 +115,7 @@ FoodieHub/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/foodiehub.git
+   git clone https://github.com/Brainstorm-collab/FoodieHub.git
    cd foodiehub
    ```
 
@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **G. Eesaan**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Brainstorm-collab](https://github.com/Brainstorm-collab)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
@@ -280,7 +280,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the project, please:
 
-1. Check the [Issues](https://github.com/yourusername/foodiehub/issues) page
+1. Check the [Issues](https://github.com/Brainstorm-collab/FoodieHub/issues) page
 2. Create a new issue with detailed description
 3. Contact the author directly
 
@@ -288,4 +288,4 @@ If you have any questions or need help with the project, please:
 
 **Made with ❤️ by G. Eesaan**
 
-*This project demonstrates modern React development practices, responsive design, and user experience optimization.* 
+*This project demonstrates modern React development practices, responsive design, and user experience optimization.*
