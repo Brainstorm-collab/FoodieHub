@@ -267,8 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **G. Eesaan**
 - GitHub: [@Brainstorm-collab](https://github.com/Brainstorm-collab)
-Connect with me on LinkedIn:  
-[https://www.linkedin.com/in/eesaan-gali-11o42k5/](https://www.linkedin.com/in/eesaan-gali-11o42k5/)
+- Connect with me on LinkedIn: [https://www.linkedin.com/in/eesaan-gali-11o42k5/](https://www.linkedin.com/in/eesaan-gali-11o42k5/)
 ## 🙏 Acknowledgments
 
 - **Pexels** for high-quality food images
