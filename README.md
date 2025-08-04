@@ -2,7 +2,7 @@
 
 A modern, responsive food delivery web application built with React 18, TypeScript, and Tailwind CSS. Experience seamless ordering with advanced features like real-time cart management, wishlist functionality, and order tracking.
 
-![FoodieHub Preview](https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800)
+![FoodieHub Preview](project%20imgs/Screenshot%20(20).png)
 
 ## ✨ Features
 
