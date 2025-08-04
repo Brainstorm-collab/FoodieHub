@@ -233,22 +233,7 @@ Edit `src/data/menuData.ts` to add new dishes:
 2. Add route in `src/App.tsx`
 3. Update navigation in `src/components/Navbar.tsx`
 
-## 🚀 Deployment
 
-### **Build for Production**
-```bash
-npm run build
-```
-
-### **Deploy to Vercel**
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run: `vercel`
-3. Follow the prompts
-
-### **Deploy to Netlify**
-1. Build the project: `npm run build`
-2. Drag the `dist` folder to Netlify
-3. Configure build settings if needed
 
 ## 🤝 Contributing
 
@@ -259,9 +244,7 @@ npm run build
 5. Push to the branch: `git push origin feature-name`
 6. Submit a pull request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
